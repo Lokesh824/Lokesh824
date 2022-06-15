@@ -4,7 +4,7 @@
 <!-- ![Profile Header (1)](https://user-images.githubusercontent.com/55869293/155839507-3cd86f77-2365-4ba7-b707-e71892181a41.gif) -->
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=tokyonight&size=35&center=true&vCenter=true&width=1000&lines=HELLO+THERE!;+I+SPECIALIZE+IN+WEB+APPLICATIONS+DEVELOPMENT,+AND+DEVOPS.;I'M+INTERESTED+IN+AI+AND+MACHINE+LEARNING:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=tokyonight&size=35&center=true&vCenter=true&width=1000&lines=HELLO+THERE!;I+SPECIALIZE+IN+WEB+APPLICATIONS+DEVELOPMENT,+AND+DEVOPS.;I'M+INTERESTED+IN+AI+AND+MACHINE+LEARNING:%29)](https://git.io/typing-svg)
 
 
 ### CHECK OUT MY PORTFOLIO [HERE](https://lokesh-online.web.app/)
